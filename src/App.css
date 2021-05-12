@@ -25,7 +25,7 @@
 
 .recipes{
   display: flex;
-  justify-content: center;
-  /* justify-content: space-around; */
+  /* justify-content: center; */
+  justify-content: space-around;
   flex-wrap: wrap;
 }
